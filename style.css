@@ -1,0 +1,11 @@
+body > div{
+	display: flex;
+	flex-direction: row;
+}
+
+body > div > div{
+	border: 1px solid red;
+	padding: 8px;
+	margin: 4px;
+	height: 20px;
+}
